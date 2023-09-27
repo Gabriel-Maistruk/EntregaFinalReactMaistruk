@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "image": "https://labebidadetusfiestas.com.ar/45903/energizante-monster-green-473-cc.jpg",
+        "title": "Producto 1",
+        "price": 19.99,
+        "category": "Monster",
+        "itHasDues": true,
+        "isAnOffer": false,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "image": "https://www.myamericanshop.es/cdn/shop/products/monster-energy-lewis-hamilton-zero-sugar-5060896625577-36484346609827.jpg?v=1673880284",
+        "title": "Producto 2",
+        "category": "Monster Edicion Especial",
+        "price": 29.99,
+        "itHasDues": false,
+        "isAnOffer": true,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "image": "https://i5.walmartimages.com/seo/Monster-Energy-Ultra-Rosa-Sugar-Free-Energy-Drink-16-fl-oz_f8a7440c-cc00-4879-854d-9ad1f083103b.9b0c18dda31a5c992eac098d449cb3bf.png",
+        "title": "Producto 3",
+        "price": 39.99,
+        "category": "Monster",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "image": "https://acdn.mitiendanube.com/stores/001/163/250/products/diseno-sin-titulo-2111-4e860d7520d86f1e5d15885222897667-640-0.png",
+        "title": "Producto 4",
+        "price": 49.99,
+        "category": "Monster Ultra",
+        "itHasDues": false,
+        "isAnOffer": false,
+        "stock": 11
+    },
+    {
+        "id": 5,
+        "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/476/675/products/monster-mango-loco1-f1e02b460d8eac89c616140862485836-640-0.png",
+        "title": "Producto 5",
+        "price": 59.99,
+        "category": "Monster",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "image": "https://supercarrito.com.ar/wp-content/uploads/2023/06/SC-53.webp",
+        "title": "Producto 6",
+        "price": 69.99,
+        "category": "Monster Ultra",
+        "itHasDues": false,
+        "isAnOffer": false,
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "image": "https://d1tjllbjmslitt.cloudfront.net/spree/products/86101/large_webp/572789-1.webp?1672257984",
+        "title": "Producto 7",
+        "price": 79.99,
+        "category": "Monster",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 50
+    },
+    {
+        "id": 8,
+        "image": "https://popsamerica.com/3396-large_default/suenos-de-fresa-monster-energy-ultra.jpg",
+        "title": "Producto 8",
+        "price": 89.99,
+        "category": "Monster Edicion Especial",
+        "itHasDues": false,
+        "isAnOffer": false,
+        "stock": 15
+    },
+    {
+        "id": 9,
+        "image": "https://superlaesperanza.com.ar/images/product_image/42236/0?dpr=2.625&fit=contain&h=400&q=80&w=400",
+        "title": "Producto 9",
+        "price": 99.99,
+        "category": "Monster",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "image": "https://proteinpackage.co.uk/cdn/shop/products/Monster-Ultra-Peachy-Keen-UK-Peach-Flavour-473ml-Cans.png?v=1661518589",
+        "title": "Producto 10",
+        "price": 109.99,
+        "category": "Monster",
+        "itHasDues": false,
+        "isAnOffer": false,
+        "stock": 20
+    },
+    {
+        "id": 11,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_790709-MLU69957172668_062023-O.webp",
+        "title": "Producto 11",
+        "price": 119.99,
+        "category": "Monster Ultra",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 18
+    },
+    {
+        "id": 12,
+        "image": "https://i.ebayimg.com/thumbs/images/g/TwQAAOSwiSFk9Meo/s-l640.jpg",
+        "title": "Producto 12",
+        "price": 129.99,
+        "category": "Monster Edicion Especial",
+        "itHasDues": false,
+        "isAnOffer": false,
+        "stock": 12
+    },
+    {
+        "id": 13,
+        "image": "https://www.myamericanshop.es/cdn/shop/products/monster-energy-nitro-5060751218920-36553636380835.jpg?v=1674814123",
+        "title": "Producto 13",
+        "price": 139.99,
+        "category": "Monster",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 1
+    },
+    {
+        "id": 14,
+        "image": "https://popsamerica.com/732-large_default/monster-energy-ultra-sandia.jpg",
+        "title": "Producto 14",
+        "price": 149.99,
+        "category": "Monster Ultra",
+        "itHasDues": false,
+        "isAnOffer": false,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "image": "https://guiltfree.pl/19880-medium_default/monster-energy-rehab-white-dragon.jpg",
+        "title": "Producto 15",
+        "price": 159.99,
+        "category": "Monster Edicion Especial",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 11
+    }
+]
