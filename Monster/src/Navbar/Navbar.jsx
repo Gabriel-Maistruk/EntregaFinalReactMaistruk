@@ -1,12 +1,16 @@
 import { AppBar, Toolbar, Typography } from "@mui/material";
-import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { NavLink } from "react-router-dom";
+import CartWidget from "../CartWidget/CartWidget";
 
 const Navbar = () => {
 
     return (
         <AppBar sx={{ backgroundColor: "#000000" }}>
             <Toolbar sx={{ display: "flex", justifyContent: "space-around" }}>
+                <Typography sx={{ height: "100px", marginTop: "15px"}} >
+                    <img src="https://www.monsterenergy.com/img/home/monster-logo.png" alt="Logo Monster" />
+                </Typography>
                 <NavLink className="navbar-link" to="/">
                 <Typography
                         variant="h6"
@@ -23,13 +27,16 @@ const Navbar = () => {
                             textDecoration: 'none',
                         }}
                     >
-                        <img src="https://www.monsterenergy.com/img/home/monster-logo.png" alt="Logo Monster" />
+                    Home/Categorias
                     </Typography>
                 </NavLink>
                 <NavLink className="navbar-link" to="/products">
                     <Typography >
                         Productos
                     </Typography>
+                </NavLink>
+                <NavLink>
+                    <CartWidget />
                 </NavLink>
             </Toolbar>
         </AppBar>
